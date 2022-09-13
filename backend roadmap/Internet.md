@@ -8,7 +8,7 @@
 
 두 대의 컴퓨터가 통신할 때 서로 물리적으로 또는 무선으로 연결되어야 한다. 하지만 두 대의 컴퓨터만이 아닌 원하는 만큼의 컴퓨터를 연결하려면 매우 복잡해진다. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e750c10-e948-4f55-af7b-17e17b2a2ff2/Untitled.png)
+![Untitled](https://www.notion.so/wogml/af2e563b19cb4b86b682bf5f68d990b0#f448af106dbd4329b5edd29d76ee2cb6)
 
 예를 들어 10대의 컴퓨터를 연결하는 경우 컴퓨터 당 9개의 플러그가 달린 45개의 케이블이 필요하다.
 
