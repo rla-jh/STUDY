@@ -182,7 +182,7 @@ ex) daum.co.kr
 
 - **하나의 도메인으로 여러개의 호스트에 연결하기**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97633e56-78a5-43ab-afc5-7e4dd5f8f427/Untitled.png)
+![Untitled](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/121/784.png)
 
 ## 6️⃣ 호스팅이란?
 
@@ -195,6 +195,8 @@ ex) daum.co.kr
 ---
 
 **참고 자료**
+
+
 [인터넷은 어떻게 동작하는가? - Web 개발 학습하기 | MDN](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
 
 [HTTP 개요 - HTTP | MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
