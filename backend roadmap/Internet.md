@@ -195,3 +195,22 @@ ex) daum.co.kr
 ---
 
 **참고 자료**
+[인터넷은 어떻게 동작하는가? - Web 개발 학습하기 | MDN](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+[HTTP 개요 - HTTP | MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/Overview)
+
+[브라우저 - 용어 사전 | MDN](https://developer.mozilla.org/ko/docs/Glossary/Browser)
+
+[웹페이지를 표시한다는 것: 브라우저는 어떻게 동작하는가 - Web Performance | MDN](https://developer.mozilla.org/ko/docs/Web/Performance/How_browsers_work)
+
+[NAVER D2](https://d2.naver.com/helloworld/59361)
+
+[DNS란 무엇입니까? - DNS 소개 - AWS](https://aws.amazon.com/ko/route53/what-is-dns/?nc1=h_ls)
+
+[What is a domain name? - Web 개발 학습하기 | MDN](https://developer.mozilla.org/ko/docs/Learn/Common_questions/What_is_a_domain_name)
+
+[도메인이란? - 생활코딩](https://opentutorials.org/course/228/1450)
+
+[다들 호스팅, 호스팅 하는데, '호스팅 뜻'은? - wishket](https://blog.wishket.com/%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%EA%B7%B8%EB%A6%B0%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8/)
+
+[호스트 설정 - 생활코딩](https://opentutorials.org/course/228/1453)
