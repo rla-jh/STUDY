@@ -8,21 +8,21 @@
 
 두 대의 컴퓨터가 통신할 때 서로 물리적으로 또는 무선으로 연결되어야 한다. 하지만 두 대의 컴퓨터만이 아닌 원하는 만큼의 컴퓨터를 연결하려면 매우 복잡해진다. 
 
-![Untitled](https://www.notion.so/wogml/af2e563b19cb4b86b682bf5f68d990b0#f448af106dbd4329b5edd29d76ee2cb6)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-1.png)
 
 예를 들어 10대의 컴퓨터를 연결하는 경우 컴퓨터 당 9개의 플러그가 달린 45개의 케이블이 필요하다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/153a2302-e72d-4256-8ae3-6e6d6a665e37/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-2.png)
 
 이 문제를 해결하기 위해 네트워크의 각 컴퓨터는 **라우터**라고하는 특수한 소형 컴퓨터에 연결된다. 이 라우터에는 컴퓨터에서 보낸 메시지가 올바른 대상 컴퓨터에 도착하는지 확인한다.
 
 이 라우터를 시스템에 추가하면 각 컴퓨터마다 단일 플러그와 10개의 플러그가 있는 하나의 라우터만 필요한 것이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b77d0fc-23d9-4ec6-b222-f55cc4eaccc7/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-3.png)
 
 컴퓨터를 라우터에 연결하고, 라우터를 또 다른 라우터에 연결하면 무한히 확장할 수 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69095abe-8fa0-4891-9487-fd3dd04b0127/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-5.png)
 
 하지만 이러한 방식도 라우터끼리 연결되어 있는 네트워크외에 다른 네트워크에는 케이블을 연결할 수 없다.
 
@@ -30,11 +30,11 @@
 
 모뎀은 네트워크 정보를 전화 시설에서 처리할 수 있는 정보로 바꾸며, 그 반대의 정보도 마찬가지이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d32f5f73-9c15-4e98-a0d4-d02f77a05b50/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-6.png)
 
 그래서 네트워크는 전화 시설에 연결되고, 우리의 네트워크에서 도달하려는 대상 네트워크로 메시지를 보내는 것인데, 그렇게 하기 위해서는 우리의 네트워크를 **인터넷 서비스 제공 업체(Internet Service Provider, ISP)**에 연결한다. ISP는 모두 연결되는 몇몇 라우터를 관리하고 다른 ISP의 라우터에도 액세스 할 수 있는 회사이다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/254f9f00-23ce-4395-a0a2-7f4fbd099322/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-7.png)
 
 따라서 우리의 네트워크 메시지는 ISP 네트워크의 네트워크를 통해 대상 네트워크로 전달된다.
 
@@ -83,7 +83,7 @@ Content-Type: text/html
 - HTTP 프로토콜 버전
 - 서버에 대한 추가 정보를 전달하는 선택적 헤더들
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a060357c-7a5a-409c-8e66-241c9bb34d59/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/http_request.png)
 
 ### ✔️ HTTP 응답
 
@@ -92,7 +92,7 @@ Content-Type: text/html
 - 상태메시지
 - 요청 헤더와 비슷한 HTTP 헤더
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f471c6de-640a-4e71-a928-95f7d586c4e2/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/http_response.png)
 
 ## 3️⃣ 브라우저 개념과 동작 방식
 
@@ -114,7 +114,7 @@ HTML과 CSS 명세에 따라 HTML 파일을 해석해서 표시한다.
 - 자바스크립트 해석기 : 자바스크립트 코드를 해석하고 실행한다.
 - 자료 저장소 : 쿠키를 저장하는 것과 같이 모든 종류의 자원을 저장한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/674cee3d-260f-4a6b-b55a-93228ec215b3/Untitled.png)
+![Untitled](https://d2.naver.com/content/images/2015/06/helloworld-59361-1.png)
 
 ### 렌더링 엔진
 
@@ -125,7 +125,7 @@ HTML과 CSS 명세에 따라 HTML 파일을 해석해서 표시한다.
 
 **렌더링 엔진의 동작 과정**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9a350bc1-3bb0-4ac8-a78e-98d3302d5261/Untitled.png)
+![Untitled](https://d2.naver.com/content/images/2015/06/helloworld-59361-2.png)
 
 HTML 문서를 파싱하고 “콘텐츠 트리” 내부에서 태그를 DOM 노드로 변환한다. 그 다음 CSS 파일도 파싱한다.
 
@@ -152,7 +152,7 @@ HTML 문서를 파싱하고 “콘텐츠 트리” 내부에서 태그를 DOM �
 3. 컴퓨터가 도메인의 이름에 해당하는 IP를 모를 경우 DNS 서버에 계속 요청한다. (DNS 서버의 작업은 정확히 어떤 IP 주소가 등록된 각 도메인 이름과 일치하는지 컴퓨터에 알려주는 것이다)
 4. 컴퓨터가 요청된 IP주소를 알고 있으므로 브라우저는 웹 서버와 콘텐츠를 협상할 수 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e803b75-c55e-48e7-842c-7c69723f77b4/Untitled.png)
+![Untitled](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name/2014-10-dns-request2.png)
 
 ## 5️⃣ 도메인 이름이란?
 
